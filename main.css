@@ -1,0 +1,40 @@
+* {
+    font-family: Arial, sans-serif;
+}
+
+.btn {
+    background-color: rgb(231, 231, 102);
+}
+
+#Sign-In {
+    margin: 0px 0px 10px;
+    padding: 1px 0px 4px;
+    font-size: 28px
+}
+
+#form {
+    width: 348px;
+    height: 279px;
+    padding: 20px 26px; 
+}
+
+
+#logo {
+    width: 103px;
+    height: 31px;
+}
+
+#boldtext {
+    font-size: 14px;
+}
+
+#continuebtn {
+    color: black;
+}
+
+
+#toggle {
+    color: rgba(138, 138, 192, 0.623);
+    background-color: white;
+    border-color: white;
+}
